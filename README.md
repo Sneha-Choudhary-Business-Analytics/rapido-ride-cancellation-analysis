@@ -8,7 +8,7 @@ A full-cycle business analysis project on **750 ride requests** from the Indore 
 
 ## 📊 Dashboard Preview
 
-![Rapido Driver Rejection Analysis Dashboard](dashboard.png)
+![Rapido Driver Rejection Analysis Dashboard](Dashboard.png)
 
 ---
 
